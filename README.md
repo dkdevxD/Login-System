@@ -1,5 +1,12 @@
-# Login System
+# Installation
+  - Enter the src folder
+  - Create a database MySQL and REDIS with Docker
+  - npm install
 
+## Initializing
+  - npm run dev
+
+## Login System Features
   - Basic CRUD
   - Data validation
   - Token authentication login
@@ -9,7 +16,7 @@
   - Authorization system
   - Blocking tokens by logout or time
 
-## Language, technologies and packages used
+### Language, technologies and packages used
   - NodeJs
   - Express
   - Typescript
